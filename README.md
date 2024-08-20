@@ -18,5 +18,5 @@ This notebook demonstrates various methods for computing disparity maps between 
     git clone https://github.com/linhlinhle997/image-depth-estimation.git
     cd image-depth-estimation
     ```
-2. Open the notebook in Google Colab or Jupyter.
+2. Open the notebook in `Google Colab` or `Jupyter`.
 3. Follow the step-by-step instructions provided in the notebook to compute disparity maps using various methods.
